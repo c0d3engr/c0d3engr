@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Full-Stack Developer
+**Full-Stack Developer**
+
 Computer Engineer with 2 years of recent software engineering experience, specializing in building scalable web applications. Passionate about creating efficient, user-friendly solutions using modern technologies.
 
 
